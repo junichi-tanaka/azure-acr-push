@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hellow Azure")
+	fmt.Println("Hellow Azure 1")
 }
